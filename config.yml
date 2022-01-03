@@ -1,7 +1,7 @@
 bot_token: 1921211013:AAERPYFUYTvEKKvfyoKgGE7mGx4n331I7Vk
-telegraph_token: 3f652cfd23a0722f4202a82ff4d8c747c8425975afe16c5a257310b4beae
-                 53be92925577d90d34d50329fbebc794c3348edea9ee964cc71324587c43
-                 ffa66e1aacbe34bacd1cee9485c5b3b28acd473314909876f814712383cb
+telegraph_token: 37eca1772e3728c94f95f5678315dfd5774fce28e79641c25112fa021e2b
+                 6d8de8dc60d616090174cbb34676be424f012f163353068e02ab5229db98
+                 2def51be010933b360abee7d7d1ef2f70060f033fd68b170cb59ef884e77
 preview_text: 0
 update_interval: 5
 error_threshold: 100
