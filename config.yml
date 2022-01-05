@@ -6,11 +6,11 @@ preview_text: 0
 update_interval: 5
 error_threshold: 100
 mysql:
-  host: containers-us-west-24.railway.app
-  port: 5777
-  user: root
-  password: BClU2CWJNW7ItHWyJPBb
-  database: railway
+  host: ec2-100-25-121-253.compute-1.amazonaws.com
+  port: 5432
+  user: tvpejmvpxrytqn
+  password: 98c0656d43b301e77066cddd6122c62bdaeaac0a64ff1067758ee902565f2f8e
+  database: d4dhkecr04vu1f
 allowed_users:
  - 894575091
  - 692055290
