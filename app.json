@@ -1,20 +1,19 @@
 {
-    "name": "rss-bot",
+    "name": "RSS-BOT",
     "description": "RSS 機器人。 使用 indes/flowerss-bot。",
     "logo": "https://i.imgur.com/RYqwBHA.jpg",
     "keywords": [
       "rss",
       "telegram",
-      "python",
       "rss-bot"
     ],
-    "repository": "https://github.com/makubex2010/rss-bot",
-    "website": "https://github.com/makubex2010/rss-bot",
-    "success_url": "https://t.me/PlayStation4Tw",
+    "repository": "https://github.com/makubex2010/RSS-BOT",
+    "website": "https://github.com/makubex2010/RSS-BOT",
+    "success_url": "https://t.me/PlayStationTw",
     "stack": "container",
     "addons": [
       {
-        "plan": "cleardb:ignite"
+        "plan": "jawsdb:Kitefin Shared"
       }
     ]
 }
