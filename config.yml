@@ -6,11 +6,11 @@ preview_text: 0
 update_interval: 5
 error_threshold: 100
 mysql:
-  host: uzb4o9e2oe257glt.cbetxkdyhwsb.us-east-1.rds.amazonaws.com
-  port: 3306
-  user: gm91735bgizvzgl7
-  password: t0wthj60z5wrvstn
-  database: up921qar3aassps6
+  host: containers-us-west-21.railway.app
+  port: 6081
+  user: root
+  password: p7q7bwKwKyu0mbHvuH8f
+  database: railway
 allowed_users:
  - 894575091
  - 692055290
