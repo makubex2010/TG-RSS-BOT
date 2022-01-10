@@ -7,9 +7,9 @@ update_interval: 5
 error_threshold: 100
 mysql:
   host: containers-us-west-21.railway.app
-  port: 6081
+  port: 6869
   user: root
-  password: p7q7bwKwKyu0mbHvuH8f
+  password: t6UOQJalFcFDflsnjxDO
   database: railway
 allowed_users:
  - 894575091
