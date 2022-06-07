@@ -6,11 +6,11 @@ preview_text: 0
 update_interval: 5
 error_threshold: 100
 mysql:
-  host: uzb4o9e2oe257glt.cbetxkdyhwsb.us-east-1.rds.amazonaws.com
+  host: bmlx3df4ma7r1yh4.cbetxkdyhwsb.us-east-1.rds.amazonaws.com
   port: 3306
-  user: pa0vl81lgk7xsg08
-  password: bsx8fuxi0s0wysg6
-  database: cl8lnjagov5vhc25
+  user: jbdzjcrhni2ahciv
+  password: odwiwyz251lckpge
+  database: of7bkvjzyadxn0rv
 allowed_users:
  - 894575091
  - 692055290
