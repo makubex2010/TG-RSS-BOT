@@ -1,4 +1,4 @@
-bot_token: 1921211013:AAGE8Wp3PrTrMSfY_LYWwK243I85R5CvoZs
+bot_token: 1921211013:AAF3N2Adm4KazdZkiPO3AnvCeF7yVRGY61o
 telegraph_token: 37eca1772e3728c94f95f5678315dfd5774fce28e79641c25112fa021e2b
                  6d8de8dc60d616090174cbb34676be424f012f163353068e02ab5229db98
                  2def51be010933b360abee7d7d1ef2f70060f033fd68b170cb59ef884e77
@@ -6,11 +6,11 @@ preview_text: 0
 update_interval: 5
 error_threshold: 100
 mysql:
-  host: ro2padgkirvcf55m.cbetxkdyhwsb.us-east-1.rds.amazonaws.com
+  host: bv2rebwf6zzsv341.cbetxkdyhwsb.us-east-1.rds.amazonaws.com
   port: 3306
-  user: o2eisi7rqg4abd10
-  password: nrp3uvqoqxxcthgr
-  database: x7yrd6j849t2ltks
+  user: goes6wp2va0owpu7
+  password: jncq85bs35i39pg2
+  database: slozizxug3v8fyo8
 allowed_users:
  - 894575091
  - 692055290
