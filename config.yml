@@ -6,11 +6,11 @@ preview_text: 0
 update_interval: 5
 error_threshold: 100
 mysql:
-  host: bv2rebwf6zzsv341.cbetxkdyhwsb.us-east-1.rds.amazonaws.com
+  host: mysql.sqlpub.com
   port: 3306
-  user: goes6wp2va0owpu7
-  password: jncq85bs35i39pg2
-  database: slozizxug3v8fyo8
+  user: blackjack2010
+  password: 52a3271c5883db0e
+  database: freeinformation
 allowed_users:
  - 894575091
  - 692055290
